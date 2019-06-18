@@ -1,12 +1,15 @@
 ---
 title: Contact
 ---
-My email is freilich.am@gmail.com.
 
-I'm also @freilich-am on github.
+email: freilich.am@gmail.com.
 
-And I'm @freilich_a on twitter.
+github: @freilich-am
 
-And I'm /u/freilich-am on reddit.
+linkedin: /in/am-freilich
+
+twitter: @freilich_a
+
+reddit: /u/freilich-am
 
 I'm fairly new to social media. Please say hi!
