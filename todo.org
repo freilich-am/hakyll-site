@@ -1,0 +1,19 @@
+* Misc
+** DONE Change name Adam -> AM
+** work on CSS (including responsiveness)
+
+* add technical chops
+** add projects with their own pages
+** add pages for current repos
+** do more complicated stuff with hakyll (including /~ domains?)
+** add blog posts 
+*** add it back as a feature 
+*** add technical stuff about what I'm doing at work
+*** add stuff about progress on my projects
+*** open source? emacs guides?
+*** link to other cool things on the internet
+* add character
+** add blog posts about CSA (or sewing or guitar)
+** add picture
+** get better picture
+** plug on social media (generally do more social media)
